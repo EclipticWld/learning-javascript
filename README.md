@@ -1,4 +1,4 @@
 learning-javascript
 ===================
 
-This repository will be my public indicator of learning JavaScript.
+This repository will be my indicator of learning JavaScript.
